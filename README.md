@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning *Unity Game Engine**
+- 🌱 I’m currently making prototypes in **Unity Game Engine**
 
 - 🧑‍🎓 I’m an Undergraduate at **USCS**
 
