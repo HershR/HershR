@@ -24,6 +24,8 @@
 </table>
 
 ---
+<h3 align="center"> Projects </h3>
+---
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
