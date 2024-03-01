@@ -25,6 +25,14 @@
 
 ---
 <h3 align="center"> Projects </h3>
+
+| Name                                                                      | Description |
+| :----------------                                                         | :------: |
+| [MCT-TicTacToe](https://github.com/HershR/MCT-TicTacToe)                  |  A bot that plays Ultimate Tic-Tac-Toe using Monte Carlo Tree Search (MCTS)   |
+| [Detective Dollar](https://github.com/RazrSlyr/DetectiveDollar)           |  Expense Tracking app made in Expo   |
+| [Huffman Encoder](https://github.com/HershR/Huffman-Encoding)             |  Program to compress and decompress files based on Huffman Encoding   |
+| [Hamming Code](https://github.com/HershR/Hamming-Code)                    | Program to encode files into error-correcting code using Hamming code  |
+
 ---
 
 <h3 align="center">My Statistics:</h3>
