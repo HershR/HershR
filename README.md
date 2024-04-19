@@ -32,6 +32,8 @@
 | [Detective Dollar](https://github.com/RazrSlyr/DetectiveDollar)           |  Expense Tracking app made in Expo   |
 | [Huffman Encoder](https://github.com/HershR/Huffman-Encoding)             |  Program to compress and decompress files based on Huffman Encoding   |
 | [Hamming Code](https://github.com/HershR/Hamming-Code)                    | Program to encode files into error-correcting code using Hamming code  |
+| [Pokemon Showdown Bot](https://github.com/richybourne/pokemon-trainer-behavior-trees) | A Pokemon showdown bot built using Behavior Trees |
+| [Weather Server](https://github.com/HershR/WeatherServerDocker)           | A docker server to cache weather data for cities
 
 ---
 
