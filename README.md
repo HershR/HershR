@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently making prototypes in **Unity Game Engine**
 
-- 🧑‍🎓 I’m an Undergraduate at **UCSC**
+- 🧑‍🎓 BS in Computer Science from **UCSC**
 
 - 📫 How to reach me **hersh1999@gmail.com**
 
