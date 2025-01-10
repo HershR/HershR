@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 BS in Computer Science from **UCSC**
 
-- 📫 How to reach me **hersh1999@gmail.com**
+- 📫 How to reach me **hershrudrawal@gmail.com**
 
 </td>
 <td width="50%" align="center">
