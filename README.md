@@ -29,9 +29,10 @@
 | Name                                                                      | Description |
 | :----------------                                                         | :------: |
 | [Profolio Website](https://hershr.github.io/hershr-portfolio/#home)       | My Porfolio Website made in React and TailwindCSS   |
-| [Detective Dollar](https://github.com/RazrSlyr/DetectiveDollar)           | Expense Tracking app made in Expo   |
-| [Green City Manager](https://apileofbacon.itch.io/green-city-manager)     | City Management Game Prototype build for [Island Earth Odyssey](https://islandearthodyssey.com/)
+| [Rep Report](https://github.com/HershR/rep-report)                        | Mobile fitness app made using Expo/React Native   |
 | [Weather Server](https://github.com/HershR/WeatherServerDocker)           | A docker server to cache weather data for cities
+| [Green City Manager](https://apileofbacon.itch.io/green-city-manager)     | City Management Game Prototype build for [Island Earth Odyssey](https://islandearthodyssey.com/)
+| [Detective Dollar](https://github.com/RazrSlyr/DetectiveDollar)           | Expense Tracking app made in Expo   |
 | [Self Driving Simulator](https://github.com/anonymaew/autonomous-driving) | Repo for training and running Self-Driving model in Carla Simulator, [results](https://docs.google.com/presentation/d/1FJJfXteaMTPfY3YeP1ngwKjycN_0rZIAfS0iQ95BChc/edit?usp=sharing) |
 | [MCT-TicTacToe](https://github.com/HershR/MCT-TicTacToe)                  | A bot that plays Ultimate Tic-Tac-Toe using Monte Carlo Tree Search (MCTS)   |
 | [Pokemon Showdown Bot](https://github.com/richybourne/pokemon-trainer-behavior-trees) | A Pokemon showdown bot built using Behavior Trees |
